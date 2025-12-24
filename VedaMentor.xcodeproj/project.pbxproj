@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		83AA07412EFBA4990039DB46 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 83AA07402EFBA4990039DB46 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		830923EE2EF131D5004FA7A5 /* VedaMentor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VedaMentor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		83AA07402EFBA4990039DB46 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		830923E52EF131D5004FA7A5 = {
 			isa = PBXGroup;
 			children = (
+				83AA07402EFBA4990039DB46 /* .gitignore */,
 				830923F02EF131D5004FA7A5 /* VedaMentor */,
 				830923EF2EF131D5004FA7A5 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83AA07412EFBA4990039DB46 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
